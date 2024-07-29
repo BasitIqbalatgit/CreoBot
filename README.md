@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Canva Apps SDK starter kit
 
 Welcome to the **Apps SDK starter kit** for Canva's app development platform. 🎉
@@ -156,3 +157,7 @@ To more easily customize the URL of the server:
    **Note:** `BACKEND_HOST` is a global constant that contains the value of the `CANVA_BACKEND_HOST` environment variable. The variable is made available to the app via webpack and does not need to be imported.
 
 4. Before bundling the app for production, update `CANVA_BACKEND_HOST` to point to the production backend.
+=======
+# CreoBot
+Hackathon
+>>>>>>> 70714ab13cf47ca6163e90e36f842688c2875424
